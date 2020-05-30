@@ -6,7 +6,15 @@
         "space": "always"
       }
     },
-    "preset-ja-technical-writing": true,
+    "preset-ja-technical-writing": {
+      "max-kanji-continuous-len": {
+        "max": 6,
+        "allow": [
+          "福島成蹊高等学校",
+          "福島県立福島西高等学校"
+        ]
+      }
+    },
     "spellcheck-tech-word": true
   }
 }
