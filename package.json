@@ -1,21 +1,20 @@
 {
-  "name": "cv",
+  "name": "jinsei",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "lint": "textlint README.md"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igara/cv.git"
+    "url": "git+https://github.com/igara/jinsei.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/igara/cv/issues"
+    "url": "https://github.com/igara/jinsei/issues"
   },
-  "homepage": "https://github.com/igara/cv#readme",
+  "homepage": "https://github.com/igara/jinsei#readme",
   "dependencies": {
     "textlint": "11.6.3",
     "textlint-rule-preset-ja-spacing": "2.0.1",
