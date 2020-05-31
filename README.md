@@ -21,6 +21,8 @@
 | Twitter      | https://twitter.com/syo_igarashi |
 | Qiita        | https://qiita.com/igara          |
 | はてなブログ | https://igara1119.hatenablog.com |
+| Speaker Deck | https://speakerdeck.com/igara    |
+| GitHub       | https://github.com/igara         |
 | 個人サイト   | https://syonet.work              |
 
 ## いままで
