@@ -11,11 +11,17 @@ ${markdownStyle}
 
 const exec = () => {
   const markdown = fs.readFileSync("README.md").toString();
+  const renderer = new marked.Renderer();
+  renderer.link = (href, title, text) => {
+    return `<a target="_blank" rel="noopener noreferrer" href="${href}" title="${title}">${text}</a>`;
+  };
+
   let body = marked(markdown, {
     gfm: true,
     highlight: (code) => {
       return highlight.highlightAuto(code).value;
     },
+    renderer,
   });
 
   body = `<div class="markdown-body">
