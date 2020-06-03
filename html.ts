@@ -13,6 +13,8 @@ const exec = () => {
   const markdown = fs.readFileSync("README.md").toString();
   const renderer = new marked.Renderer();
   renderer.link = (href, _, text) => {
+    if (/^#/.test(href)) return `<a href="${href}">${text}</a>`;
+
     return `<a target="_blank" rel="noopener noreferrer" href="${href}">${text}</a>`;
   };
 
