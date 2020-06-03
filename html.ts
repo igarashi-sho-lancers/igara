@@ -12,8 +12,8 @@ ${markdownStyle}
 const exec = () => {
   const markdown = fs.readFileSync("README.md").toString();
   const renderer = new marked.Renderer();
-  renderer.link = (href, title, text) => {
-    return `<a target="_blank" rel="noopener noreferrer" href="${href}" title="${title}">${text}</a>`;
+  renderer.link = (href, _, text) => {
+    return `<a target="_blank" rel="noopener noreferrer" href="${href}">${text}</a>`;
   };
 
   let body = marked(markdown, {
