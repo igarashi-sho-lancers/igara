@@ -191,7 +191,7 @@ ABC オロチとは MySQL、PHP、CGI/Perl が使用可能で決められた Lin
 KENT と作るワンランク上の Perl/CGI プログラミング  
 https://www.kent-web.com/pubc/book/9_1rank_tsukuro.html
 
-現在はアカウントを削除したため存在しない。
+現在はアカウントを削除したため存在しない。  
 http://oab.no-ip.biz/~igara/
 
 #### 就職活動
