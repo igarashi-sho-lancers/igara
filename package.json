@@ -1,5 +1,5 @@
 {
-  "name": "jinsei",
+  "name": "igara",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igara/jinsei.git"
+    "url": "git+https://github.com/igara/igara.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/igara/jinsei/issues"
+    "url": "https://github.com/igara/igara/issues"
   },
-  "homepage": "https://github.com/igara/jinsei#readme",
+  "homepage": "https://github.com/igara/igara#readme",
   "dependencies": {
     "github-markdown-css": "4.0.0",
     "highlight.js": "10.0.3",
