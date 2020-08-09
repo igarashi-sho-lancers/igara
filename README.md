@@ -6,6 +6,7 @@
 ## 目次
 
 - [基本情報](#基本情報)
+  - [GitHub Readme Stats](#GitHub-Readme-Stats)
 - [いままで](#いままで)
   - [2007/4~2010/3](#2007420103)
     - [高校生活](#高校生活)
@@ -70,6 +71,12 @@
 | Wantedly     | https://www.wantedly.com/users/18191415 |
 | LAPRAS       | https://lapras.com/public/TE6SJSN       |
 | 個人サイト   | https://syonet.work                     |
+
+### GitHub Readme Stats
+
+[![igara's github stats](https://github-readme-stats.vercel.app/api?username=igara)](https://github.com/igara/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igara)](https://github.com/igara/github-readme-stats)
 
 ## いままで
 
